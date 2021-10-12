@@ -1,1 +1,1 @@
-# DHBW-Vorlesung_Reiner
+# DHBW-Vorlesung-Reiner
